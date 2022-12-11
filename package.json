@@ -1,0 +1,7 @@
+{
+    "name": "@laurent_mb/dir",
+    "version": "0.0.1",
+    "bin": {
+        "dir": "index.js"
+    }
+}
